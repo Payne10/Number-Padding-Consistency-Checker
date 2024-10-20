@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES2017",          // Enable ES2015 features like Iterable and Array.from
+      "lib": ["ES2017", "DOM"],    // Include ES2015 and DOM libraries
+      "module": "commonjs",        // Use CommonJS module format for Node.js compatibility
+      "strict": true,              // Enable strict type checking
+      "esModuleInterop": true,     // Improve compatibility with ES module imports
+      "skipLibCheck": true         // Skip type checking of declaration files for simplicity
+    },
+    "include": ["*.ts"]
+  }
+  
