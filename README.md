@@ -9,4 +9,4 @@ node mazira_2024.js
 # Testing
 There are test cases at the bottom of the ts file.
 
-After running the code, the output should be : 3, 3, 1, -3, -2, -1, 0
+After running the code, the output should be : 3, 3, 1, -3, -2, -1, 0, -3, 2
